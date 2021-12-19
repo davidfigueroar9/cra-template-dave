@@ -1,1 +1,8 @@
-# Create react app template for projects with my favorite tools
+# Create react app template
+
+## Tools
+
+- React typescript
+- Redux
+- Redux Toolkit
+- Tailwind css
